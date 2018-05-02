@@ -1,0 +1,48 @@
+<aspectj>
+<aspects>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrder_Roo_Jpa_Entity"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrder_Roo_Json"/>
+<aspect name="com.springsource.pizzashop.service.PizzaServiceImpl_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.web.ToppingController_Roo_Controller_Json"/>
+<aspect name="com.springsource.pizzashop.domain.Base_Roo_Json"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrderPk_Roo_Json"/>
+<aspect name="com.springsource.pizzashop.domain.Base_Roo_JavaBean"/>
+<aspect name="com.springsource.pizzashop.web.PizzaOrderController_Roo_Controller_Json"/>
+<aspect name="com.springsource.pizzashop.repository.ToppingRepository_Roo_Jpa_Repository"/>
+<aspect name="com.springsource.pizzashop.service.PizzaOrderService_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.web.PizzaOrderController_Roo_Controller"/>
+<aspect name="com.springsource.pizzashop.service.BaseServiceImpl_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.domain.Topping_Roo_Jpa_Entity"/>
+<aspect name="com.springsource.pizzashop.web.ToppingController_Roo_Controller"/>
+<aspect name="com.springsource.pizzashop.web.BaseController_Roo_Controller"/>
+<aspect name="com.springsource.pizzashop.service.PizzaService_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.service.PizzaOrderServiceImpl_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.web.PizzaController_Roo_Controller_Json"/>
+<aspect name="com.springsource.pizzashop.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.springsource.pizzashop.domain.Topping_Roo_JavaBean"/>
+<aspect name="com.springsource.pizzashop.domain.Pizza_Roo_JavaBean"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrderPk_Roo_Serializable"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrderPk_Roo_Identifier"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrderPk_Roo_ToString"/>
+<aspect name="com.springsource.pizzashop.service.ToppingServiceImpl_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrder_Roo_JavaBean"/>
+<aspect name="com.springsource.pizzashop.service.BaseService_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.domain.Base_Roo_ToString"/>
+<aspect name="com.springsource.pizzashop.repository.PizzaRepository_Roo_Jpa_Repository"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrderPk_Roo_Configurable"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrderPk_Roo_Equals"/>
+<aspect name="com.springsource.pizzashop.domain.PizzaOrder_Roo_ToString"/>
+<aspect name="com.springsource.pizzashop.domain.Pizza_Roo_Json"/>
+<aspect name="com.springsource.pizzashop.web.PizzaController_Roo_Controller"/>
+<aspect name="com.springsource.pizzashop.domain.Pizza_Roo_ToString"/>
+<aspect name="com.springsource.pizzashop.web.BaseController_Roo_Controller_Json"/>
+<aspect name="com.springsource.pizzashop.domain.Pizza_Roo_Jpa_Entity"/>
+<aspect name="com.springsource.pizzashop.repository.PizzaOrderRepository_Roo_Jpa_Repository"/>
+<aspect name="com.springsource.pizzashop.domain.Topping_Roo_ToString"/>
+<aspect name="com.springsource.pizzashop.repository.BaseRepository_Roo_Jpa_Repository"/>
+<aspect name="com.springsource.pizzashop.service.ToppingService_Roo_Service"/>
+<aspect name="com.springsource.pizzashop.domain.Base_Roo_Jpa_Entity"/>
+<aspect name="com.springsource.pizzashop.domain.Topping_Roo_Json"/>
+</aspects>
+</aspectj>
+
